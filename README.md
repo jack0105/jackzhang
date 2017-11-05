@@ -2,7 +2,7 @@
 
 Freshman at Boston University Questrom School of Business.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My interests include basketball, volleyball, video editing, and rap.
 
 ### Markdown
 
