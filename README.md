@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Jack (Linjie) Zhang
 
-You can use the [editor on GitHub](https://github.com/jack0105/jackzhang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Freshman at Boston University Questrom School of Business.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
